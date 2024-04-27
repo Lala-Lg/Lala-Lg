@@ -1,9 +1,8 @@
+# 💫 Hola! me llamo Laura:
+🔭 Soy estudiante de la faculta de Informática en la UNLP.<br>Me encanta colaborar en proyectos en equipo, ofrecer ayuda a mis compañeros y estudiar cursos online. <br>Me gusta aprender y crecer profesionalmente en esta área. <br><br>Espero que te sirvan mis resumenes o prácticas, trato de subirlas a medida que curso. Quizás puede ayudarte!<br><br>A demás, me gustan la música, la ilustración tradicional y digital, los idiomas y los libros. <br>
 <div style="float:right">
   <img src="https://media.giphy.com/media/1AHojbQkAcBOhEZWjz/giphy.gif" width="200" height="200" alt="Gif de Kiki's Delivery Service">
 </div>
-# 💫 Hola! me llamo Laura:
-🔭 Soy estudiante de la faculta de Informática en la UNLP.<br>Me encanta colaborar en proyectos en equipo, ofrecer ayuda a mis compañeros y estudiar cursos online. <br>Me gusta aprender y crecer profesionalmente en esta área. <br><br>Espero que te sirvan mis resumenes o prácticas, trato de subirlas a medida que curso. Quizás puede ayudarte!<br><br>A demás, me gustan la música, la ilustración tradicional y digital, los idiomas y los libros. <br>
-
 ## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mlaulw) 
 
