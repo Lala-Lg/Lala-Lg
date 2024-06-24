@@ -28,10 +28,6 @@
 ### Herramientas de Diseño:
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-### Otros:
-![Java Streams](https://img.shields.io/badge/Java%20Streams-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
 ## 📌 Información de algunas materias:
 
 ### Primer Año
