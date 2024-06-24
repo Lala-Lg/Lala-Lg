@@ -10,6 +10,24 @@
 # 💻 Tecnologías:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Razor](https://img.shields.io/badge/razor-%230078D4.svg?style=for-the-badge&logo=razor&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+## 📌 Pins Destacados:
+
+### Primer Año
+<a href="https://github.com/Lala-Lg/CADP">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lala-Lg&repo=CADP&theme=omni" alt="CADP">
+</a>
+<a href="https://github.com/Lala-Lg/TallerDeProgramacion">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lala-Lg&repo=TallerDeProgramacion&theme=omni" alt="Taller de Programación">
+</a>
+
+### Segundo Año
+<a href="https://github.com/Lala-Lg/FOD">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lala-Lg&repo=FOD&theme=omni" alt="FOD">
+</a>
+<a href="https://github.com/Lala-Lg/EntregaFinal.Net">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lala-Lg&repo=EntregaFinal.Net&theme=omni" alt="Entrega Final .Net">
+</a>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lala-lg&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lala-lg&theme=omni&hide_border=false)<br/>
