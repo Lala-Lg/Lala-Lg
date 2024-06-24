@@ -9,58 +9,28 @@
 
 # 💻 Tecnologías:
 
-<div style="display: flex; justify-content: center;">
+### Lenguajes:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-  <!-- Lenguajes -->
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" width="70" height="70">
-    <br>Java
-  </div>
-  
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" width="70" height="70">
-    <br>C#
-  </div>
-  
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" width="70" height="70">
-    <br>Python
-  </div>
+### Frameworks y Plataformas:
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![Razor](https://img.shields.io/badge/razor-%230078D4.svg?style=for-the-badge&logo=razor&logoColor=white)
 
-  <!-- Frameworks y Plataformas -->
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" width="70" height="70">
-    <br>.NET
-  </div>
-  
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" width="70" height="70">
-    <br>Flask
-  </div>
-  
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.shields.io/badge/razor-%230078D4.svg?style=for-the-badge&logo=razor&logoColor=white" alt="Razor" width="70" height="70">
-    <br>Razor
-  </div>
+### Bases de Datos:
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-  <!-- Bases de Datos -->
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="70" height="70">
-    <br>MySQL
-  </div>
-  
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" width="70" height="70">
-    <br>SQLite
-  </div>
+### Herramientas de Diseño:
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-  <!-- Herramientas de Diseño -->
-  <div style="text-align: center; margin: 10px;">
-    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" width="70" height="70">
-    <br>Photoshop
-  </div>
-
-</div>
+### Otros:
+![Java Streams](https://img.shields.io/badge/Java%20Streams-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ## 📌 Información de algunas materias:
 
@@ -82,4 +52,3 @@
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lala-lg&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
